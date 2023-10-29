@@ -16,7 +16,7 @@ Frontend: <br>
 </a>
 &emsp;
 <a href="https://www.w3schools.com/jquery/" target="_blank" >
-            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jquery" width="40" height="40"/>
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjquery-1&psig=AOvVaw3AWixCc0ZVsfuTfNwqAUlk&ust=1698689273677000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjKgejsm4IDFQAAAAAdAAAAABAE" alt="jquery" width="40" height="40"/>
 </a>
 <br>
 Backend: <br>
