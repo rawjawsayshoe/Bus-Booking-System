@@ -19,7 +19,7 @@ Frontend: <br>
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jquery" width="40" height="40"/>
 </a>
 <br>
-Backend: <br>
+Backend: <br> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
