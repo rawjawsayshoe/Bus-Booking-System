@@ -16,11 +16,13 @@ Frontend: <br>
 </a>
 &emsp;
 <a href="https://www.w3schools.com/jquery/" target="_blank" >
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fjquery&psig=AOvVaw3AWixCc0ZVsfuTfNwqAUlk&ust=1698689273677000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjKgejsm4IDFQAAAAAdAAAAABAJ" alt="jquery" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jquery" width="40" height="40"/>
 </a>
 <br>
 Backend: <br>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 ## Published By
 A. Revanth Kumar (1602-22-737-035) <br>
 Ch. Raja Sheshu (1602-22-737-033)
