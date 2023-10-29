@@ -18,11 +18,11 @@ Frontend: <br> <br>
 <a href="https://www.w3schools.com/jquery/" target="_blank" >
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jquery" width="40" height="40"/>
 </a>
-<br>
+<br> <br>
 Backend: <br> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-## Published By
+# Published By
 A. Revanth Kumar (1602-22-737-035) <br>
 Ch. Raja Sheshu (1602-22-737-033)
